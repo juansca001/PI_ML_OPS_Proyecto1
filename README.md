@@ -57,11 +57,12 @@ Para obtener más detalles sobre las rutas y funciones disponibles, así como pa
 
 Nota: Para desplegar y hacer que la API sea accesible públicamente, deberás seguir los pasos adecuados de implementación y alojamiento, que pueden incluir la selección de un servidor web o plataforma en la nube y la configuración de los puertos y direcciones IP permitidos.
 
-Fuente de datos
-Dataset: Carpeta con los 2 archivos con datos que requieren ser procesados (movies_dataset.csv y credits.csv), tengan en cuenta que hay datos que estan anidados (un diccionario o una lista como valores en la fila).
-https://drive.google.com/drive/folders/1mfUVyP3jS-UMdKHERknkQ4gaCRCO2e1v 
-Diccionario de datos: Diccionario con algunas descripciones de las columnas disponibles en el dataset.
+## Fuente de datos
+Carpeta con los 2 archivos con datos que requieren ser procesados (movies_dataset.csv y credits.csv), tengan en cuenta que hay datos que estan anidados (un diccionario o una lista como valores en la fila).
 
+Nota: Debido a que los Dataset son muy pesados deben descargarlos del siguiente link y guardarlos en la misma carpeta de este proyecto.
+
+https://drive.google.com/drive/folders/1mfUVyP3jS-UMdKHERknkQ4gaCRCO2e1v 
 
 
 
