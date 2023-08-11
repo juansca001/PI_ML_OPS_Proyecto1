@@ -60,9 +60,13 @@ Nota: Para desplegar y hacer que la API sea accesible públicamente, deberás se
 ## Fuente de datos
 Carpeta con los 2 archivos con datos que requieren ser procesados (movies_dataset.csv y credits.csv), tengan en cuenta que hay datos que estan anidados (un diccionario o una lista como valores en la fila).
 
-Nota: Debido a que los Dataset son muy pesados deben descargarlos del siguiente link y guardarlos en la misma carpeta de este proyecto.
+Nota:
 
+- Debido a que los Dataset son muy pesados deben descargarlos del siguiente link y guardarlos en la misma carpeta de este proyecto.
 https://drive.google.com/drive/folders/1mfUVyP3jS-UMdKHERknkQ4gaCRCO2e1v 
+
+- El Dataset 'df_movies_clean.csv' se genera ejecutando las líneas de Proyecto1.ipynb
+
 
 
 
